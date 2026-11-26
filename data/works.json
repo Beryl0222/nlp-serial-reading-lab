@@ -1,0 +1,181 @@
+[
+  {
+    "id": "w000",
+    "family": "book-family-000",
+    "title": "桥上的争执",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w001",
+    "family": "book-family-001",
+    "title": "迟到的信",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w002",
+    "family": "book-family-002",
+    "title": "舞台台词",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w003",
+    "family": "book-family-003",
+    "title": "梦中的门",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w004",
+    "family": "book-family-004",
+    "title": "午后的比赛",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w005",
+    "family": "book-family-005",
+    "title": "丢失的尺子",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w006",
+    "family": "book-family-006",
+    "title": "古堡手稿",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w007",
+    "family": "book-family-007",
+    "title": "如果我是巨人",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w008",
+    "family": "book-family-008",
+    "title": "秘密口令",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w009",
+    "family": "book-family-009",
+    "title": "班会以后",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w010",
+    "family": "book-family-010",
+    "title": "朗读课",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w011",
+    "family": "book-family-011",
+    "title": "画中的风暴",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w012",
+    "family": "book-family-012",
+    "title": "奖牌的来路",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w013",
+    "family": "book-family-013",
+    "title": "走廊脚印",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w014",
+    "family": "book-family-014",
+    "title": "故事接龙",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w015",
+    "family": "book-family-015",
+    "title": "镜子那边",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w016",
+    "family": "book-family-016",
+    "title": "石头游戏",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w017",
+    "family": "book-family-017",
+    "title": "操场和解",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w018",
+    "family": "book-family-018",
+    "title": "旧报片段",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w019",
+    "family": "book-family-019",
+    "title": "云上的城",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w020",
+    "family": "book-family-020",
+    "title": "藏起的鞋",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w021",
+    "family": "book-family-021",
+    "title": "最后一排",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w022",
+    "family": "book-family-022",
+    "title": "剧本中的桥",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "w023",
+    "family": "book-family-023",
+    "title": "纸上的计划",
+    "chapters_declared": 2,
+    "aliases": {}
+  },
+  {
+    "id": "open-book",
+    "family": "open-family",
+    "title": "桥边的约定",
+    "chapters_declared": 3,
+    "aliases": {
+      "小松": [
+        "松松"
+      ]
+    }
+  }
+]

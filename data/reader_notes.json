@@ -1,0 +1,482 @@
+[
+  {
+    "id": "w000-ch1-reading",
+    "chapter": "w000-ch1",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w000-ch1"
+    ]
+  },
+  {
+    "id": "w000-ch2-reading",
+    "chapter": "w000-ch2",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w000-ch2"
+    ]
+  },
+  {
+    "id": "w001-ch1-reading",
+    "chapter": "w001-ch1",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w001-ch1"
+    ]
+  },
+  {
+    "id": "w001-ch2-reading",
+    "chapter": "w001-ch2",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w001-ch2"
+    ]
+  },
+  {
+    "id": "w002-ch1-reading",
+    "chapter": "w002-ch1",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w002-ch1"
+    ]
+  },
+  {
+    "id": "w002-ch2-reading",
+    "chapter": "w002-ch2",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w002-ch2"
+    ]
+  },
+  {
+    "id": "w003-ch1-reading",
+    "chapter": "w003-ch1",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w003-ch1"
+    ]
+  },
+  {
+    "id": "w003-ch2-reading",
+    "chapter": "w003-ch2",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w003-ch2"
+    ]
+  },
+  {
+    "id": "w004-ch1-reading",
+    "chapter": "w004-ch1",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w004-ch1"
+    ]
+  },
+  {
+    "id": "w004-ch2-reading",
+    "chapter": "w004-ch2",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w004-ch2"
+    ]
+  },
+  {
+    "id": "w005-ch1-reading",
+    "chapter": "w005-ch1",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w005-ch1"
+    ]
+  },
+  {
+    "id": "w005-ch2-reading",
+    "chapter": "w005-ch2",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w005-ch2"
+    ]
+  },
+  {
+    "id": "w006-ch1-reading",
+    "chapter": "w006-ch1",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w006-ch1"
+    ]
+  },
+  {
+    "id": "w006-ch2-reading",
+    "chapter": "w006-ch2",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w006-ch2"
+    ]
+  },
+  {
+    "id": "w007-ch1-reading",
+    "chapter": "w007-ch1",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w007-ch1"
+    ]
+  },
+  {
+    "id": "w007-ch2-reading",
+    "chapter": "w007-ch2",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w007-ch2"
+    ]
+  },
+  {
+    "id": "w008-ch1-reading",
+    "chapter": "w008-ch1",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w008-ch1"
+    ]
+  },
+  {
+    "id": "w008-ch2-reading",
+    "chapter": "w008-ch2",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w008-ch2"
+    ]
+  },
+  {
+    "id": "w009-ch1-reading",
+    "chapter": "w009-ch1",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w009-ch1"
+    ]
+  },
+  {
+    "id": "w009-ch2-reading",
+    "chapter": "w009-ch2",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w009-ch2"
+    ]
+  },
+  {
+    "id": "w010-ch1-reading",
+    "chapter": "w010-ch1",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w010-ch1"
+    ]
+  },
+  {
+    "id": "w010-ch2-reading",
+    "chapter": "w010-ch2",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w010-ch2"
+    ]
+  },
+  {
+    "id": "w011-ch1-reading",
+    "chapter": "w011-ch1",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w011-ch1"
+    ]
+  },
+  {
+    "id": "w011-ch2-reading",
+    "chapter": "w011-ch2",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w011-ch2"
+    ]
+  },
+  {
+    "id": "w012-ch1-reading",
+    "chapter": "w012-ch1",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w012-ch1"
+    ]
+  },
+  {
+    "id": "w012-ch2-reading",
+    "chapter": "w012-ch2",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w012-ch2"
+    ]
+  },
+  {
+    "id": "w013-ch1-reading",
+    "chapter": "w013-ch1",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w013-ch1"
+    ]
+  },
+  {
+    "id": "w013-ch2-reading",
+    "chapter": "w013-ch2",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w013-ch2"
+    ]
+  },
+  {
+    "id": "w014-ch1-reading",
+    "chapter": "w014-ch1",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w014-ch1"
+    ]
+  },
+  {
+    "id": "w014-ch2-reading",
+    "chapter": "w014-ch2",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w014-ch2"
+    ]
+  },
+  {
+    "id": "w015-ch1-reading",
+    "chapter": "w015-ch1",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w015-ch1"
+    ]
+  },
+  {
+    "id": "w015-ch2-reading",
+    "chapter": "w015-ch2",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w015-ch2"
+    ]
+  },
+  {
+    "id": "w016-ch1-reading",
+    "chapter": "w016-ch1",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w016-ch1"
+    ]
+  },
+  {
+    "id": "w016-ch2-reading",
+    "chapter": "w016-ch2",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w016-ch2"
+    ]
+  },
+  {
+    "id": "w017-ch1-reading",
+    "chapter": "w017-ch1",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w017-ch1"
+    ]
+  },
+  {
+    "id": "w017-ch2-reading",
+    "chapter": "w017-ch2",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w017-ch2"
+    ]
+  },
+  {
+    "id": "w018-ch1-reading",
+    "chapter": "w018-ch1",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w018-ch1"
+    ]
+  },
+  {
+    "id": "w018-ch2-reading",
+    "chapter": "w018-ch2",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w018-ch2"
+    ]
+  },
+  {
+    "id": "w019-ch1-reading",
+    "chapter": "w019-ch1",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w019-ch1"
+    ]
+  },
+  {
+    "id": "w019-ch2-reading",
+    "chapter": "w019-ch2",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w019-ch2"
+    ]
+  },
+  {
+    "id": "w020-ch1-reading",
+    "chapter": "w020-ch1",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w020-ch1"
+    ]
+  },
+  {
+    "id": "w020-ch2-reading",
+    "chapter": "w020-ch2",
+    "reader": "编辑甲",
+    "stance_note": "encouraged",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w020-ch2"
+    ]
+  },
+  {
+    "id": "w021-ch1-reading",
+    "chapter": "w021-ch1",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w021-ch1"
+    ]
+  },
+  {
+    "id": "w021-ch2-reading",
+    "chapter": "w021-ch2",
+    "reader": "编辑甲",
+    "stance_note": "opposed",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w021-ch2"
+    ]
+  },
+  {
+    "id": "w022-ch1-reading",
+    "chapter": "w022-ch1",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w022-ch1"
+    ]
+  },
+  {
+    "id": "w022-ch2-reading",
+    "chapter": "w022-ch2",
+    "reader": "编辑甲",
+    "stance_note": "quoted",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w022-ch2"
+    ]
+  },
+  {
+    "id": "w023-ch1-reading",
+    "chapter": "w023-ch1",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w023-ch1"
+    ]
+  },
+  {
+    "id": "w023-ch2-reading",
+    "chapter": "w023-ch2",
+    "reader": "编辑甲",
+    "stance_note": "imagined",
+    "scope": "本段及其已收到的前文",
+    "refs": [
+      "w023-ch2"
+    ]
+  }
+]

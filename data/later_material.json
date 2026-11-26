@@ -1,0 +1,20 @@
+[
+  {
+    "id": "chapter-supply",
+    "work": "open-book",
+    "chapter": 2,
+    "text": "小松的朋友拦住他，说这不是解决办法。他松开手，决定先把事情说清楚。",
+    "refs": [
+      "open-book"
+    ]
+  },
+  {
+    "id": "local-review",
+    "action": "confirm_span_only",
+    "chapter": "open-ch1",
+    "text": "确认“他攥紧了手”是叙述，不确认后续行为和全书立场。",
+    "refs": [
+      "open-ch1"
+    ]
+  }
+]
